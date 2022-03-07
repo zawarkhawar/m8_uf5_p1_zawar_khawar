@@ -1,0 +1,21 @@
+p {
+  text-align: justify;
+  color: yellow;
+  text-align: center;
+}
+h1,h2 {
+  text-align: center;
+  color: red;
+  border: solid;
+  border-radius: 15px;
+}
+footer h4 {
+  text-align: right;
+  color: red;
+}
+body {
+  background-color: black;
+}
+a {
+  color: lightblue;
+}
